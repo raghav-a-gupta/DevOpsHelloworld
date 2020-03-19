@@ -2,7 +2,7 @@ public class HelloWorld {
 
 	public static void main(String[] args)
 	{
-		System.out.println("Hello World is jk");
+		System.out.println("Hello World is ajk");
 	}
 
 }
